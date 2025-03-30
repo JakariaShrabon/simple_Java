@@ -13,3 +13,8 @@ mySet.add(2);
 console.log(mySet);
 
 
+//.... some  example of deletion it ...
+
+mySet.delete(2);
+
+console.log(mySet);
